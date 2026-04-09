@@ -168,7 +168,7 @@ Turn InVideo AI into a programmable video production system. Generate full comme
 Full Creatify + HeyGen automation system for AI video ads with avatars, voice, and B-roll. End-to-end automated video production workflows.
 
 - 🔗 Gumroad: [https://siftermike.gumroad.com/l/qhztyu]  
-- 🔗 GitHub: https://github.com/SifterStudios/creatify-studio  
+- 🔗 GitHub: https://github.com/Sifterofficialrepo/creatify-studio  
 | **📋 Project Management** | 9 | Senior PM, scrum master, Jira, Confluence, Atlassian admin, templates | [project-management/](project-management/) |
 | **🏥 Regulatory & QM** | 14 | ISO 13485, MDR 2017/745, FDA, ISO 27001, GDPR, CAPA, risk management | [ra-qm-team/](ra-qm-team/) |
 | **💼 C-Level Advisory** | 34 | Full C-suite (10 roles) + orchestration + board meetings + culture & collaboration | [c-level-advisor/](c-level-advisor/) |
