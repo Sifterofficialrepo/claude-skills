@@ -161,14 +161,14 @@ Run `./scripts/convert.sh --tool all` to generate tool-specific outputs locally.
 ### InVideo AI Unlocked — Claude Code Plugin
 Turn InVideo AI into a programmable video production system. Generate full commercials (script, footage, voiceover, captions, rendering) from a single prompt using Claude Code.
 
-- 🔗 Gumroad: https://siftermike.gumroad.com/l/galxion  
+- 🔗 Gumroad: https://siftermike.gumroad.com/l/galxion
 - 🔗 GitHub: https://github.com/Sifterofficialrepo/invideo-ai-unlocked
 
 ### Creatify Studio — Claude Code Plugin
 Full Creatify + HeyGen automation system for AI video ads with avatars, voice, and B-roll. End-to-end automated video production workflows.
 
-- 🔗 Gumroad: [https://siftermike.gumroad.com/l/qhztyu]  
-- 🔗 GitHub: https://github.com/Sifterofficialrepo/creatify-studio  
+- 🔗 Gumroad: https://siftermike.gumroad.com/l/qhztyu
+- 🔗 GitHub: https://github.com/Sifterofficialrepo/creatify-studio
 
 ---
 
